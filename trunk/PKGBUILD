@@ -2,7 +2,7 @@
 # Contributor: Sébastien Luttringer <seblu@aur.archlinux.org>
 
 pkgname=lynis
-pkgver=2.7.5
+pkgver=3.0.0
 pkgrel=2
 pkgdesc='Security and system auditing tool to harden Unix/Linux systems'
 url='https://cisofy.com/lynis/'
